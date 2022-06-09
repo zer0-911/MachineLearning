@@ -1,3 +1,3 @@
-# Machnine-Learning
+# Machine-Learning
 Repo Pembelajaran Mesin
 
